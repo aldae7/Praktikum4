@@ -110,3 +110,5 @@ int main()
 }
 
 ```
+
+![img](https://raw.githubusercontent.com/aldae7/Praktikum4/master/hargabarang.png)
